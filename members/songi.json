@@ -1,6 +1,6 @@
 {
   "id": "member5",
-  "name": "정데이터",
+  "name": "박송이",
   "subName": "데이터 분석가",
   "profileImage": "image/profile_image.png",
   "introduction": {
@@ -9,13 +9,13 @@
   },
   "info": {
     "description": "Python과 SQL을 활용하여 데이터 분석을 하고 있습니다.",
-    "birthday": "1997.09.25",
-    "location": "서울시 영등포구",
-    "email": "member5@example.com",
+    "birthday": "2004.05.17",
+    "location": "전북특별자치도 전주시",
+    "email": "springday3355@gmail.com",
     "phone": "010-5555-5555"
   },
   "strengths": [
-    "분석력",
+    "계획성",
     "체계성",
     "객관성"
   ],
