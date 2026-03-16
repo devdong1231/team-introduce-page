@@ -1,0 +1,34 @@
+{
+"id": "songi",
+"name": "송이",
+"subName": "백엔드 개발자",
+"profileImage": "image/main.png",
+"introduction": {
+"quote": "어제보다 성장하는 개발자, 송이입니다!",
+"detail": "Spring과 Java를 공부하며 탄탄한 백엔드 실력을 쌓고 있습니다."
+},
+"info": {
+"description": "꾸준함이 무기인 백엔드 수강생입니다.",
+"birthday": "2004.05.17",
+"location": "전주시",
+"email": "songi@example.com",
+"phone": "010-0000-0000"
+},
+"strengths": ["성실함", "정리정돈", "친화력"],
+"skills": [
+{ "name": "Java", "progress": 30 },
+{ "name": "Spring", "progress": 20 },
+{ "name": "SQL", "progress": 25 }
+],
+"licenses": ["준비 중"],
+"education": [
+{
+"name": "백엔드 부트캠프",
+"period": "2026.03 ~ 현재",
+"gpa": "열공 중",
+"location": "온라인"
+}
+],
+"experience": [],
+"projects": []
+}
