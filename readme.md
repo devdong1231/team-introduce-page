@@ -1,3 +1,5 @@
+# 기본 과제
+
 # 팀원 소개 페이지
 
 Git 커밋 협업을 통한 팀원 소개 페이지 프로젝트입니다.
@@ -11,11 +13,11 @@ sparta-git-cowork/
 ├── index.html          # 팀원 목록 페이지
 ├── members/           # 팀원 정보 JSON 파일 디렉토리
 │   ├── members.json   # 팀원 목록 파일
-│   ├── member1.json  # 템플릿 1 (프론트엔드 개발자)
-│   ├── member2.json  # 템플릿 2 (백엔드 개발자)
-│   ├── member3.json  # 템플릿 3 (UI/UX 디자이너)
-│   ├── member4.json  # 템플릿 4 (풀스택 개발자)
-│   ├── member5.json  # 템플릿 5 (데이터 분석가)
+│   ├── member1.md  # 템플릿 1 (김유하)
+│   ├── member2.md  # 템플릿 2 (황정후)
+│   ├── member3.md  # 템플릿 3 (김민혁)
+│   ├── member4.md  # 템플릿 4 (황준)
+│   ├── member5.md  # 템플릿 5 (박송이)
 │   └── example.json   # 예시 팀원 정보
 └── image/             # 이미지 파일 디렉토리
 ```
@@ -32,6 +34,10 @@ cd sparta-git-cowork
 # 새 브랜치 생성 (본인의 이름 또는 아이디로)
 git checkout -b add-member-<your-name>
 ```
+
+---
+
+# 발전과제 
 
 ### 2. 본인의 팀원 정보 추가
 
