@@ -1,52 +1,34 @@
 {
-  "id": "member5",
-  "name": "박송이",
-  "subName": "스파르타 수강생",
-  "profileImage": "image/profile_image.png",
+  "id": "songi",
+  "name": "송이",
+  "subName": "백엔드 개발자",
+  "profileImage": "image/main.png",
   "introduction": {
-    "quote": "아직은 백린이(백엔드 어린이)이지만 백어른(백엔드 어른)이 되고싶은 박송이 라고 합니다.",
-    "detail": "평생 기계치 컴맹으로 살 뻔한 인생이었는데, 프로그래밍하는게 멋있어보이고 전문성을 얻어 1인분 가능한 사람이 되기 위해 도전하게 되었습니다. "
+    "quote": "어제보다 성장하는 개발자, 송이입니다!",
+    "detail": "Spring과 Java를 공부하며 탄탄한 백엔드 실력을 쌓고 있습니다."
   },
   "info": {
-    "description": "코딩과 우주, 풍경사진 찍는걸 좋아합니다.",
+    "description": "꾸준함이 무기인 백엔드 수강생입니다.",
     "birthday": "2004.05.17",
-    "location": "전북특별자치도 전주시",
-    "email": "springday3355@gmail.com",
-    "phone": "010-5555-5555"
+    "location": "전주시",
+    "email": "songi@example.com",
+    "phone": "010-0000-0000"
   },
-  "strengths": [
-    "계획성",
-    "욕심",
-    "도전 정신"
-  ],
+  "strengths": ["성실함", "정리정돈", "친화력"],
   "skills": [
-    { "name": "Python", "progress": 30 },
-    { "name": "SQL", "progress": 25 },
-    { "name": "HTML", "progress": 20 },
-    { "name": "CSS", "progress":15 }
+    { "name": "Java", "progress": 30 },
+    { "name": "Spring", "progress": 20 },
+    { "name": "SQL", "progress": 25 }
   ],
-  "licenses": [
-    "운전면허증",
-  ],
+  "licenses": ["준비 중"],
   "education": [
     {
-      "name": "솔내 고등학교",
-      "period": "2020.06.08 ~ 2022.02.14",
-      "location": "전주시 덕진구"
-    },
-    {
-      "name": "전주대학교",
-      "period": "2023.03.02 ~ 2023.12.20",
-      "gpa": "3.8",
-      "location": "전주시 완산구"
+      "name": "백엔드 부트캠프",
+      "period": "2026.03 ~ 현재",
+      "gpa": "열공 중",
+      "location": "온라인"
     }
   ],
-  "projects": [
-    {
-      "title": "X",
-      "description": "X",
-      "image": "image/p1.png",
-      "link": "project.html"
-    }
-  ]
+  "experience": [],
+  "projects": []
 }
